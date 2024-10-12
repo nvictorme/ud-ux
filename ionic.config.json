@@ -1,0 +1,8 @@
+{
+  "name": "UDUx",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "e569b23d"
+}
